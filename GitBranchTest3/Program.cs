@@ -10,6 +10,9 @@ namespace GitBranchTest3
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("test af git branch");
+
+        
         }
     }
 }
